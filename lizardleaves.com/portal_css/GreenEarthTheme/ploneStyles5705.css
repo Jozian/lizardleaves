@@ -1,0 +1,168 @@
+
+/* - contentpanels.css - */
+@media all {
+/* http://lizardleaves.com/portal_css/contentpanels.css?original=1 */
+/* */
+#region-content .viewlet .portlet{
+font-size: 100%
+}
+.documentContent .portletFooter,
+.documentContent .portletItem {
+padding: 0.3em;
+}
+.documentContent .portletItemDetails {
+color: #76797c;
+font-size: 85%;
+margin-top: -0.5em;
+}
+.cpPanels .cpPanel {
+margin: 1em 0 0 0;
+}
+.documentContent .viewlet .portlet{
+margin: 0 0 0 0;
+}
+.cpPanelsHeading {
+background-color: lavender;
+white-space: nowrap;
+text-align: right;
+}
+.cpPanelsHeading .cpPanelsHeadingInput,
+.cpPanelHeading .cpPanelsHeadingInput {
+float: left;
+}
+.cpPanelHeading {
+background-color: lavender;
+}
+.cpPanelHeading td {
+text-align: right
+}
+.cpViewletItem a {
+white-space: nowrap;
+}
+.cpViewletItem span {
+white-space:nowrap;
+background-color: lightgreen;
+}
+/* */
+.cpEditFormInputValues {
+float: left;
+}
+.cpEditFormSubmitButtons {
+float: right;
+}
+.cpRelatedContent li.cpRelatedItem{
+display: inline;
+}
+.cpPages {
+float:right;
+white-space: nowrap;
+margin-top: 0;
+}
+.cpPages li {
+display: inline;
+}
+.cpPages li a {
+font-size: 90%;
+background-color: transparent;
+border: 1px solid #74ae0b;
+color: #578308;
+margin-right: 0.5em;
+padding: 0em 1em;
+text-decoration: none;
+text-transform: lowercase;
+z-index: 1;
+}
+.cpPages li.selected a {
+background-color: #cde2a7;
+color: #578308;
+}
+.cpPages li a:hover {
+background-color: #cde2a7;
+color: #578308;
+}
+/* */
+/* */
+/* */
+.notitlePortletWrapper dt.portletHeader {
+display: none;
+}
+.notitlePortletWrapper .portlet,
+.notitlePortletWrapper dd.portletFooter,
+.notitlePortletWrapper dd.portletItem{
+border: none;
+}
+/* */
+.zopezenPortletWrapper dt.portletHeader {
+background-color: White;
+font-style: normal;
+border: none;
+text-transform: capitalize;
+border-bottom: 2px solid #FFFFAA;
+}
+.boxPortletWrapper dl.portlet dd.portletFooter,
+.boxPortletWrapper dl.portlet dd.portletItem,
+.boxPortletWrapper dl.portlet,
+.zopezenPortletWrapper dl.portlet,
+.zopezenPortletWrapper dl.portlet dd.portletFooter,
+.zopezenPortletWrapper dl.portlet dd.portletItem {
+border: none;
+}
+/* */
+.alertPortletWrapper dl.portlet dt.portletHeader{
+background: #ffa500;
+font-weight: bold;
+border-color: #ffa500;
+text-transform: uppercase;
+background-image: url(../../info_icon.gif);
+background-repeat: no-repeat;
+background-position: 5px 50%;
+padding-left: 2.5em;
+}
+.alertPortletWrapper dl.portlet dd.portletFooter,
+.alertPortletWrapper dl.portlet dd.portletItem {
+background-color: #ffce7b;
+}
+/* */
+.dottedPortletWrapper dl.portlet dt.portletHeader{
+background: White;
+font-weight: bold;
+border: none;
+padding-left: 0em;
+text-transform: capitalize;
+color: #555555;
+border-bottom: 2px dotted #FFFFAA;
+}
+.dottedPortletWrapper dl.portlet dd.portletFooter,
+.dottedPortletWrapper dl.portlet dd.portletItem {
+border: 2px dotted #FFFFAA;
+border-top:none;
+border-bottom: none;
+}
+.dottedPortletWrapper dl.portlet{
+border-bottom: 2px dotted #FFFFAA;
+}
+.imageNewsImage {
+float: left;
+margin: 0.5em;
+}
+.imageNewsTitle {
+font-weight:bold;
+}
+.viewlet-rss-link{
+padding-right: 2px;
+float: right;
+display: block;
+}
+/* */
+
+}
+
+
+/* - contentpanelsCustom.css - */
+@media all {
+/* http://lizardleaves.com/portal_css/contentpanelsCustom.css?original=1 */
+/* */
+/* */
+
+}
+

@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+         xmlns="http://purl.org/rss/1.0/">
+
+
+
+
+    
+
+
+
+<channel rdf:about="http://lizardleaves.com/search_rss">
+  <title>The Lizard Leaf Company</title>
+  <link>http://lizardleaves.com</link>
+  
+  <description>
+    
+            These are the search results for the query, showing results 1 to 15.
+        
+  </description>
+  
+  
+  
+  
+  <image rdf:resource="http://lizardleaves.com/logo.gif"/>
+
+  <items>
+    <rdf:Seq>
+        
+            <rdf:li rdf:resource="http://lizardleaves.com/eat-out-in-cornwall"/>
+        
+        
+            <rdf:li rdf:resource="http://lizardleaves.com/contact-information/contact-information"/>
+        
+        
+            <rdf:li rdf:resource="http://lizardleaves.com/images/canara"/>
+        
+        
+            <rdf:li rdf:resource="http://lizardleaves.com/images/cornish-food-market"/>
+        
+        
+            <rdf:li rdf:resource="http://lizardleaves.com/images/west-country"/>
+        
+        
+            <rdf:li rdf:resource="http://lizardleaves.com/images/retail-bag"/>
+        
+        
+            <rdf:li rdf:resource="http://lizardleaves.com/images/four-leaf"/>
+        
+        
+            <rdf:li rdf:resource="http://lizardleaves.com/find-places-to-buy-our-leaves"/>
+        
+        
+            <rdf:li rdf:resource="http://lizardleaves.com/find-places-to-eat-our-leaves"/>
+        
+        
+            <rdf:li rdf:resource="http://lizardleaves.com/images/natural"/>
+        
+        
+            <rdf:li rdf:resource="http://lizardleaves.com/images/flying"/>
+        
+        
+            <rdf:li rdf:resource="http://lizardleaves.com/images/budock"/>
+        
+        
+            <rdf:li rdf:resource="http://lizardleaves.com/images/mylor"/>
+        
+        
+            <rdf:li rdf:resource="http://lizardleaves.com/images/5-degrees-west"/>
+        
+        
+            <rdf:li rdf:resource="http://lizardleaves.com/find-places-to-eat-our-leaves/testimonials"/>
+        
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+    <item rdf:about="http://lizardleaves.com/eat-out-in-cornwall">        <title>Eat Out in Cornwall</title>        <link>http://lizardleaves.com/eat-out-in-cornwall</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>vern</dc:creator>        <dc:rights></dc:rights>                <dc:date>2018-06-16T14:19:55Z</dc:date>        <dc:type>ContentPanels</dc:type>    </item>
+    <item rdf:about="http://lizardleaves.com/contact-information/contact-information">        <title>Contact Information</title>        <link>http://lizardleaves.com/contact-information/contact-information</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>vern</dc:creator>        <dc:rights></dc:rights>                <dc:date>2016-01-25T12:13:52Z</dc:date>        <dc:type>Page</dc:type>    </item>
+    <item rdf:about="http://lizardleaves.com/images/canara">        <title>Canara</title>        <link>http://lizardleaves.com/images/canara</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>vern</dc:creator>        <dc:rights></dc:rights>                <dc:date>2014-05-22T17:30:28Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://lizardleaves.com/images/cornish-food-market">        <title>Cornish Food Market</title>        <link>http://lizardleaves.com/images/cornish-food-market</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>vern</dc:creator>        <dc:rights></dc:rights>                <dc:date>2014-04-02T19:02:31Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://lizardleaves.com/images/west-country">        <title>West Country </title>        <link>http://lizardleaves.com/images/west-country</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>vern</dc:creator>        <dc:rights></dc:rights>                <dc:date>2014-04-02T15:46:39Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://lizardleaves.com/images/retail-bag">        <title>Retail Bag</title>        <link>http://lizardleaves.com/images/retail-bag</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>vern</dc:creator>        <dc:rights></dc:rights>                <dc:date>2012-04-03T17:51:18Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://lizardleaves.com/images/four-leaf">        <title>Four Leaf</title>        <link>http://lizardleaves.com/images/four-leaf</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>vern</dc:creator>        <dc:rights></dc:rights>                <dc:date>2012-04-03T17:50:32Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://lizardleaves.com/find-places-to-buy-our-leaves">        <title>Find places to buy our leaves</title>        <link>http://lizardleaves.com/find-places-to-buy-our-leaves</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>vern</dc:creator>        <dc:rights></dc:rights>                <dc:date>2016-01-25T11:38:42Z</dc:date>        <dc:type>Page</dc:type>    </item>
+    <item rdf:about="http://lizardleaves.com/find-places-to-eat-our-leaves">        <title>Find places to eat our leaves</title>        <link>http://lizardleaves.com/find-places-to-eat-our-leaves</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>vern</dc:creator>        <dc:rights></dc:rights>                <dc:date>2012-02-18T18:29:32Z</dc:date>        <dc:type>Folder</dc:type>    </item>
+    <item rdf:about="http://lizardleaves.com/images/natural">        <title>Natural</title>        <link>http://lizardleaves.com/images/natural</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>vern</dc:creator>        <dc:rights></dc:rights>                <dc:date>2012-02-18T18:23:31Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://lizardleaves.com/images/flying">        <title>Flying</title>        <link>http://lizardleaves.com/images/flying</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>vern</dc:creator>        <dc:rights></dc:rights>                <dc:date>2012-02-18T18:22:10Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://lizardleaves.com/images/budock">        <title>Budock</title>        <link>http://lizardleaves.com/images/budock</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>vern</dc:creator>        <dc:rights></dc:rights>                <dc:date>2012-02-18T18:20:11Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://lizardleaves.com/images/mylor">        <title>Mylor</title>        <link>http://lizardleaves.com/images/mylor</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>vern</dc:creator>        <dc:rights></dc:rights>                <dc:date>2012-02-18T18:18:02Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://lizardleaves.com/images/5-degrees-west">        <title>5 Degrees West</title>        <link>http://lizardleaves.com/images/5-degrees-west</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>vern</dc:creator>        <dc:rights></dc:rights>                <dc:date>2012-02-18T18:14:54Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://lizardleaves.com/find-places-to-eat-our-leaves/testimonials">        <title>Find places to eat our leaves</title>        <link>http://lizardleaves.com/find-places-to-eat-our-leaves/testimonials</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>vern</dc:creator>        <dc:rights></dc:rights>                <dc:date>2016-01-25T11:36:40Z</dc:date>        <dc:type>Page</dc:type>    </item>
+
+
+
+</rdf:RDF>

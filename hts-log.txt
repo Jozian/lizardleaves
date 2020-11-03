@@ -1,0 +1,405 @@
+HTTrack3.49-2 launched on Mon, 19 Oct 2020 14:59:54 at http://lizardleaves.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w http://lizardleaves.com/ -O "/home/ian/Website-Migrations/Lizard Leaves" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:03:07	Warning: 	Retry after error 500 (Internal Server Error) at link lizardleaves.com/portal_factory/News Item/news_item.2007-02-26.0588048683 (from lizardleaves.com/author/vern)
+15:03:41	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/products-and-availability/images/facebook/image_thumb (from lizardleaves.com/products-and-availability)
+15:03:41	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/products-and-availability/products-and-availability/sendto_form (from lizardleaves.com/products-and-availability)
+15:03:41	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/images/gourmet/image_mini (from lizardleaves.com/products-and-availability)
+15:03:41	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/contact-information/images/cornish-food-market (from lizardleaves.com/contact-information)
+15:03:42	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/sendto_form (from lizardleaves.com/Gallery)
+15:03:42	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/rocket-flowers/view (from lizardleaves.com/Gallery)
+15:03:48	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/rocket-flowers-1/image_thumb (from lizardleaves.com/Gallery)
+15:03:54	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/rocket-flowers-3/image_thumb (from lizardleaves.com/Gallery)
+15:04:00	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/purple-tatsoi/image_thumb (from lizardleaves.com/Gallery)
+15:04:06	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/purple-tatsoi-2/image_thumb (from lizardleaves.com/Gallery)
+15:04:12	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/yukina-savoy-1/image_thumb (from lizardleaves.com/Gallery)
+15:04:21	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/green-stemmed-pak-choi/image_thumb (from lizardleaves.com/Gallery)
+15:04:21	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/atct_album_view?anchor_method=atct_album_view&b_start:int=12&-C= (from lizardleaves.com/Gallery)
+15:05:00	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/find-places-to-eat-our-leaves/images/site_flag.jpg/image_thumb (from lizardleaves.com/find-places-to-eat-our-leaves)
+15:05:00	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/find-places-to-eat-our-leaves/images/facebook/image_thumb (from lizardleaves.com/find-places-to-eat-our-leaves)
+15:05:08	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/crop-notification-service/lizardleaves-update-1/images/site_flag.jpg/image_thumb (from lizardleaves.com/crop-notification-service/lizardleaves-update-1)
+15:05:11	Warning: 	Retry after error 500 (Internal Server Error) at link lizardleaves.com/portal_factory/News Item/news_item.2007-02-26.0588048683 (from lizardleaves.com/author/vern)
+15:05:11	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/events (from lizardleaves.com/events/previous)
+15:05:34	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/find-places-to-eat-our-leaves/?searchterm=None (from lizardleaves.com/search?Creator=vern&sort_on=Date&sort_order=reverse)
+15:05:38	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/images/flying/view?searchterm=None (from lizardleaves.com/search?Creator=vern&sort_on=Date&sort_order=reverse)
+15:06:34	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/soil-association/?searchterm=None (from lizardleaves.com/search?Creator=vern&sort_on=Date&sort_order=reverse)
+15:06:40	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/images/site_flag.jpg/view?searchterm=None (from lizardleaves.com/search?Creator=vern&sort_on=Date&sort_order=reverse)
+15:07:12	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/rocket-flowers-2/sendto_form (from lizardleaves.com/Gallery/rocket-flowers-2/view)
+15:07:14	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/rocket-flowers-3/image_thumb (from lizardleaves.com/Gallery)
+15:08:52	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/purple-tatsoi-2/image_view_fullscreen (from lizardleaves.com/Gallery/purple-tatsoi-2/view)
+15:08:55	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/purple-tatsoi-2/image_thumb (from lizardleaves.com/Gallery)
+15:08:57	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/yukina-savoy/image_view_fullscreen (from lizardleaves.com/Gallery/yukina-savoy/view)
+15:09:00	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/yukina-savoy-1/image_view_fullscreen (from lizardleaves.com/Gallery/yukina-savoy-1/view)
+15:09:01	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/yukina-savoy-2/image_view_fullscreen (from lizardleaves.com/Gallery/yukina-savoy-2/view)
+15:09:03	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/yukina-savoy-2/image_preview (from lizardleaves.com/Gallery/yukina-savoy-2/view)
+15:09:13	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/green-stemmed-pak-choi/sendto_form (from lizardleaves.com/Gallery/green-stemmed-pak-choi/view)
+15:09:14	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/green-stemmed-pak-choi/image_view_fullscreen (from lizardleaves.com/Gallery/green-stemmed-pak-choi/view)
+15:11:24	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/crop-notification-service/lizardleaves-update-3/RSS (from lizardleaves.com/crop-notification-service/lizardleaves-update-3)
+15:11:25	Error: 	"Internal Server Error" (500) after 2 retries at link lizardleaves.com/portal_factory/News Item/news_item.2007-02-26.0588048683 (from lizardleaves.com/author/vern)
+15:11:25	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/events (from lizardleaves.com/events/previous)
+15:11:44	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/images/flying/view?searchterm=None (from lizardleaves.com/search?Creator=vern&sort_on=Date&sort_order=reverse)
+15:11:44	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/images/budock/view (from lizardleaves.com/images/budock/view?searchterm=None)
+15:11:46	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/images/mylor/sendto_form (from lizardleaves.com/images/mylor/view?searchterm=None)
+15:11:47	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/images/mylor/image_view_fullscreen (from lizardleaves.com/images/mylor/view?searchterm=None)
+15:11:49	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/images/5-degrees-west/view (from lizardleaves.com/images/5-degrees-west/view?searchterm=None)
+15:14:29	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/images/facebook/view (from lizardleaves.com/images/facebook/view?searchterm=None)
+15:14:30	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/images/facebook/sendto_form (from lizardleaves.com/images/facebook/view?searchterm=None)
+15:14:32	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/images/facebook/image_view_fullscreen (from lizardleaves.com/images/facebook/view?searchterm=None)
+15:14:40	Warning: 	file not stored in cache due to bogus state (broken size, expected 3012797 got 2824000): lizardleaves.com/Gallery/rocket-flowers-3/image
+15:14:51	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/images/freshness/sendto_form (from lizardleaves.com/images/freshness/view?searchterm=None)
+15:14:55	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/images/plate/view (from lizardleaves.com/images/plate/view?searchterm=None)
+15:15:08	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/images/gourmet/view (from lizardleaves.com/images/gourmet/view?searchterm=None)
+15:15:20	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/images/soil-association/view (from lizardleaves.com/images/soil-association/view?searchterm=None)
+15:16:23	Warning: 	Moved Temporarily for lizardleaves.com/crop-notification-service/henhouseuk-aol.com/?searchterm=None
+15:16:23	Warning: 	File has moved from lizardleaves.com/crop-notification-service/henhouseuk-aol.com/?searchterm=None to http://lizardleaves.com/acl_users/credentials_cookie_auth/require_login?came_from=http%3A//lizardleaves.com/crop-notification-service/henhouseuk-aol.com%3Fsearchterm%3DNone
+15:16:24	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/crop-notification-service/stephentrevorrow-hotmail-co.uk/?searchterm=None (from lizardleaves.com/search?anchor_method=search&b_start:int=30&sort_on=Date&sort_order=reverse&Creator=vern)
+15:16:25	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/crop-notification-service/chefripley-aol.com/?searchterm=None (from lizardleaves.com/search?anchor_method=search&b_start:int=30&sort_on=Date&sort_order=reverse&Creator=vern)
+15:16:26	Warning: 	Moved Temporarily for lizardleaves.com/crop-notification-service/graeme-wholefood.net/?searchterm=None
+15:16:26	Warning: 	File has moved from lizardleaves.com/crop-notification-service/graeme-wholefood.net/?searchterm=None to http://lizardleaves.com/acl_users/credentials_cookie_auth/require_login?came_from=http%3A//lizardleaves.com/crop-notification-service/graeme-wholefood.net%3Fsearchterm%3DNone
+15:16:30	Warning: 	Moved Temporarily for lizardleaves.com/crop-notification-service/carole-elsworth-virgin.net/?searchterm=None
+15:16:30	Warning: 	File has moved from lizardleaves.com/crop-notification-service/carole-elsworth-virgin.net/?searchterm=None to http://lizardleaves.com/acl_users/credentials_cookie_auth/require_login?came_from=http%3A//lizardleaves.com/crop-notification-service/carole-elsworth-virgin.net%3Fsearchterm%3DNone
+15:16:58	Warning: 	Moved Temporarily for lizardleaves.com/crop-notification-service/jan-roskillys-co.uk/?searchterm=None
+15:16:58	Warning: 	File has moved from lizardleaves.com/crop-notification-service/jan-roskillys-co.uk/?searchterm=None to http://lizardleaves.com/acl_users/credentials_cookie_auth/require_login?came_from=http%3A//lizardleaves.com/crop-notification-service/jan-roskillys-co.uk%3Fsearchterm%3DNone
+15:17:16	Warning: 	Moved Temporarily for lizardleaves.com/crop-notification-service/inquiry-trevano-co.uk/?searchterm=None
+15:17:16	Warning: 	File has moved from lizardleaves.com/crop-notification-service/inquiry-trevano-co.uk/?searchterm=None to http://lizardleaves.com/acl_users/credentials_cookie_auth/require_login?came_from=http%3A//lizardleaves.com/crop-notification-service/inquiry-trevano-co.uk%3Fsearchterm%3DNone
+15:17:17	Warning: 	Moved Temporarily for lizardleaves.com/crop-notification-service/angie-seriously-good-co.uk/?searchterm=None
+15:17:17	Warning: 	File has moved from lizardleaves.com/crop-notification-service/angie-seriously-good-co.uk/?searchterm=None to http://lizardleaves.com/acl_users/credentials_cookie_auth/require_login?came_from=http%3A//lizardleaves.com/crop-notification-service/angie-seriously-good-co.uk%3Fsearchterm%3DNone
+15:17:40	Warning: 	Moved Temporarily for lizardleaves.com/crop-notification-service/carolyn_and_gerald_lawrence-yahoo-co.uk/?searchterm=None
+15:17:40	Warning: 	File has moved from lizardleaves.com/crop-notification-service/carolyn_and_gerald_lawrence-yahoo-co.uk/?searchterm=None to http://lizardleaves.com/acl_users/credentials_cookie_auth/require_login?came_from=http%3A//lizardleaves.com/crop-notification-service/carolyn_and_gerald_lawrence-yahoo-co.uk%3Fsearchterm%3DNone
+15:17:42	Warning: 	Moved Temporarily for lizardleaves.com/crop-notification-service/carolyn-lawrence-wanadoo.fr/?searchterm=None
+15:17:42	Warning: 	File has moved from lizardleaves.com/crop-notification-service/carolyn-lawrence-wanadoo.fr/?searchterm=None to http://lizardleaves.com/acl_users/credentials_cookie_auth/require_login?came_from=http%3A//lizardleaves.com/crop-notification-service/carolyn-lawrence-wanadoo.fr%3Fsearchterm%3DNone
+15:17:56	Warning: 	Moved Temporarily for lizardleaves.com/crop-notification-service/mullion-cove-btinternet.com/?searchterm=None
+15:17:56	Warning: 	File has moved from lizardleaves.com/crop-notification-service/mullion-cove-btinternet.com/?searchterm=None to http://lizardleaves.com/acl_users/credentials_cookie_auth/require_login?came_from=http%3A//lizardleaves.com/crop-notification-service/mullion-cove-btinternet.com%3Fsearchterm%3DNone
+15:17:58	Warning: 	Moved Temporarily for lizardleaves.com/crop-notification-service/relax-polurrianhotel.com/?searchterm=None
+15:17:58	Warning: 	File has moved from lizardleaves.com/crop-notification-service/relax-polurrianhotel.com/?searchterm=None to http://lizardleaves.com/acl_users/credentials_cookie_auth/require_login?came_from=http%3A//lizardleaves.com/crop-notification-service/relax-polurrianhotel.com%3Fsearchterm%3DNone
+15:18:00	Warning: 	Moved Temporarily for lizardleaves.com/crop-notification-service/info-treeoflifeorganics-co.uk/?searchterm=None
+15:18:00	Warning: 	File has moved from lizardleaves.com/crop-notification-service/info-treeoflifeorganics-co.uk/?searchterm=None to http://lizardleaves.com/acl_users/credentials_cookie_auth/require_login?came_from=http%3A//lizardleaves.com/crop-notification-service/info-treeoflifeorganics-co.uk%3Fsearchterm%3DNone
+15:18:02	Warning: 	Moved Temporarily for lizardleaves.com/crop-notification-service/sales-ploughtoplate-co.uk/?searchterm=None
+15:18:02	Warning: 	File has moved from lizardleaves.com/crop-notification-service/sales-ploughtoplate-co.uk/?searchterm=None to http://lizardleaves.com/acl_users/credentials_cookie_auth/require_login?came_from=http%3A//lizardleaves.com/crop-notification-service/sales-ploughtoplate-co.uk%3Fsearchterm%3DNone
+15:18:14	Warning: 	Moved Temporarily for lizardleaves.com/crop-notification-service/info-shipinnmawgan-co.uk/?searchterm=None
+15:18:14	Warning: 	File has moved from lizardleaves.com/crop-notification-service/info-shipinnmawgan-co.uk/?searchterm=None to http://lizardleaves.com/acl_users/credentials_cookie_auth/require_login?came_from=http%3A//lizardleaves.com/crop-notification-service/info-shipinnmawgan-co.uk%3Fsearchterm%3DNone
+15:18:16	Warning: 	Moved Temporarily for lizardleaves.com/crop-notification-service/shop-naturalstorecornwall-co.uk/?searchterm=None
+15:18:16	Warning: 	File has moved from lizardleaves.com/crop-notification-service/shop-naturalstorecornwall-co.uk/?searchterm=None to http://lizardleaves.com/acl_users/credentials_cookie_auth/require_login?came_from=http%3A//lizardleaves.com/crop-notification-service/shop-naturalstorecornwall-co.uk%3Fsearchterm%3DNone
+15:18:18	Warning: 	Moved Temporarily for lizardleaves.com/crop-notification-service/t-g-o-r-hotmail-co.uk/?searchterm=None
+15:18:18	Warning: 	File has moved from lizardleaves.com/crop-notification-service/t-g-o-r-hotmail-co.uk/?searchterm=None to http://lizardleaves.com/acl_users/credentials_cookie_auth/require_login?came_from=http%3A//lizardleaves.com/crop-notification-service/t-g-o-r-hotmail-co.uk%3Fsearchterm%3DNone
+15:18:20	Warning: 	Moved Temporarily for lizardleaves.com/crop-notification-service/mfjwarner-gmail.com/?searchterm=None
+15:18:20	Warning: 	File has moved from lizardleaves.com/crop-notification-service/mfjwarner-gmail.com/?searchterm=None to http://lizardleaves.com/acl_users/credentials_cookie_auth/require_login?came_from=http%3A//lizardleaves.com/crop-notification-service/mfjwarner-gmail.com%3Fsearchterm%3DNone
+15:19:14	Warning: 	Moved Temporarily for lizardleaves.com/crop-notification-service/lozza442002-yahoo-co.uk/?searchterm=None
+15:19:14	Warning: 	File has moved from lizardleaves.com/crop-notification-service/lozza442002-yahoo-co.uk/?searchterm=None to http://lizardleaves.com/acl_users/credentials_cookie_auth/require_login?came_from=http%3A//lizardleaves.com/crop-notification-service/lozza442002-yahoo-co.uk%3Fsearchterm%3DNone
+15:19:16	Warning: 	Moved Temporarily for lizardleaves.com/crop-notification-service/root-ianlawrence.info/?searchterm=None
+15:19:16	Warning: 	File has moved from lizardleaves.com/crop-notification-service/root-ianlawrence.info/?searchterm=None to http://lizardleaves.com/acl_users/credentials_cookie_auth/require_login?came_from=http%3A//lizardleaves.com/crop-notification-service/root-ianlawrence.info%3Fsearchterm%3DNone
+15:19:18	Warning: 	Retry after error 500 (Internal Server Error) at link lizardleaves.com/portal_factory/News Item/news_item.2007-02-26.0588048683/?searchterm=None (from lizardleaves.com/search?anchor_method=search&b_start:int=60&sort_on=Date&sort_order=reverse&Creator=vern)
+15:20:12	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/rocket-flowers-1/image (from lizardleaves.com/Gallery/rocket-flowers-1/image_view_fullscreen)
+15:20:57	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/rocket-flowers-2/image (from lizardleaves.com/Gallery/rocket-flowers-2/image_view_fullscreen)
+15:21:58	Warning: 	Retry after error -4 (Incorrect length (2824000 Bytes, 3012797 expected)) at link lizardleaves.com/Gallery/rocket-flowers-3/image (from lizardleaves.com/Gallery/rocket-flowers-3/image_view_fullscreen)
+15:22:32	Error: 	"No data (connection closed)" (-4) after 2 retries at link lizardleaves.com/Gallery/rocket-flowers-3/image_thumb (from lizardleaves.com/Gallery)
+15:23:14	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/yukina-savoy-1/image_view_fullscreen (from lizardleaves.com/Gallery/yukina-savoy-1/view)
+15:23:34	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/green-stemmed-pak-choi/sendto_form (from lizardleaves.com/Gallery/green-stemmed-pak-choi/view)
+15:23:51	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/green-batavia/view (from lizardleaves.com/Gallery/atct_album_view?anchor_method=atct_album_view&b_start:int=12&-C=)
+15:23:52	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/green-batavia-1/view (from lizardleaves.com/Gallery/atct_album_view?anchor_method=atct_album_view&b_start:int=12&-C=)
+15:23:59	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/red-batavia/view (from lizardleaves.com/Gallery/atct_album_view?anchor_method=atct_album_view&b_start:int=12&-C=)
+15:24:17	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/yellow-chard-1/view (from lizardleaves.com/Gallery/atct_album_view?anchor_method=atct_album_view&b_start:int=12&-C=)
+15:24:23	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/mustard-leaf-ruby-frills-1/view (from lizardleaves.com/Gallery/atct_album_view?anchor_method=atct_album_view&b_start:int=12&-C=)
+15:24:54	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/greek-cress-1/image_preview (from lizardleaves.com/Gallery/greek-cress-1/view)
+15:26:24	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/red-chard/image_preview (from lizardleaves.com/Gallery/red-chard/view)
+15:26:51	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/russian-kale-2/image_preview (from lizardleaves.com/Gallery/russian-kale-2/view)
+15:27:27	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/mustard-leaf-green-frills/image_preview (from lizardleaves.com/Gallery/mustard-leaf-green-frills/view)
+15:27:39	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/tatsoi-tah-tsai/image_view_fullscreen (from lizardleaves.com/Gallery/tatsoi-tah-tsai/view)
+15:27:51	Warning: 	Unexpected socket error during pre-loop
+15:27:52	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/mustard-leaf-ruby-frills-2/image_preview (from lizardleaves.com/Gallery/mustard-leaf-ruby-frills-2/view)
+15:27:52	Warning: 	Unexpected socket error during pre-loop
+15:27:53	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/green-batavia-2/image_view_fullscreen (from lizardleaves.com/Gallery/green-batavia-2/view)
+15:27:54	Warning: 	Unexpected socket error during pre-loop
+15:27:55	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/pea-shoots-1/sendto_form (from lizardleaves.com/Gallery/pea-shoots-1/view)
+15:27:56	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/pea-shoots-2/sendto_form (from lizardleaves.com/Gallery/pea-shoots-2/view)
+15:27:58	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/pea-shoots-2/image_view_fullscreen (from lizardleaves.com/Gallery/pea-shoots-2/view)
+15:28:00	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/mizuna/sendto_form (from lizardleaves.com/Gallery/mizuna/view)
+15:28:28	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/green-stemmed-pak-choi-2/sendto_form (from lizardleaves.com/Gallery/green-stemmed-pak-choi-2/view)
+15:28:31	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/green-stemmed-pak-choi-2/image_view_fullscreen (from lizardleaves.com/Gallery/green-stemmed-pak-choi-2/view)
+15:28:33	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/green-stemmed-pak-choi-2/image_preview (from lizardleaves.com/Gallery/green-stemmed-pak-choi-2/view)
+15:29:10	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/red-chard-1/image_preview (from lizardleaves.com/Gallery/red-chard-1/view)
+15:29:25	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/greek-cress-2/sendto_form (from lizardleaves.com/Gallery/greek-cress-2/view)
+15:29:56	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/yellow-chard-2/sendto_form (from lizardleaves.com/Gallery/yellow-chard-2/view)
+15:29:58	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/yellow-chard-2/image_view_fullscreen (from lizardleaves.com/Gallery/yellow-chard-2/view)
+15:29:59	Error: 	"No data (connection closed)" (-4) after 2 retries at link lizardleaves.com/events (from lizardleaves.com/events/previous)
+15:29:59	Error: 	Unable to save file /home/ian/Website-Migrations/Lizard Leaves/lizardleaves.com/events: Is a directory
+15:29:59	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/images/canara/image (from lizardleaves.com/images/canara/image_view_fullscreen)
+15:30:01	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/images/cornish-food-market/image (from lizardleaves.com/images/cornish-food-market/image_view_fullscreen)
+15:30:03	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/images/west-country/image (from lizardleaves.com/images/west-country/image_view_fullscreen)
+15:30:05	Error: 	"No data (connection closed)" (-4) after 2 retries at link lizardleaves.com/images/flying/view?searchterm=None (from lizardleaves.com/search?Creator=vern&sort_on=Date&sort_order=reverse)
+15:30:05	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/images/budock/view (from lizardleaves.com/images/budock/view?searchterm=None)
+15:30:30	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/images/miles/image (from lizardleaves.com/images/miles/image_view_fullscreen)
+15:30:43	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/images/freshness/sendto_form (from lizardleaves.com/images/freshness/view?searchterm=None)
+15:30:44	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/images/eu-organic-logo/image (from lizardleaves.com/images/eu-organic-logo/image_view_fullscreen)
+15:30:45	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/images/site_flag.jpg/image_view_fullscreen (from lizardleaves.com/images/site_flag.jpg/view?searchterm=None)
+15:30:48	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/images/101_0032.jpg/image_view_fullscreen (from lizardleaves.com/images/101_0032.jpg/view?searchterm=None)
+15:30:48	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/images/101_0032.jpg/image_preview (from lizardleaves.com/images/101_0032.jpg/view?searchterm=None)
+15:30:49	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/images/101_0031.jpg/image_view_fullscreen (from lizardleaves.com/images/101_0031.jpg/view?searchterm=None)
+15:30:51	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/images/101_0031.jpg/image_preview (from lizardleaves.com/images/101_0031.jpg/view?searchterm=None)
+15:31:04	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/images/101_0030.jpg/image_preview (from lizardleaves.com/images/101_0030.jpg/view?searchterm=None)
+15:31:04	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/images/101_0028.jpg/view (from lizardleaves.com/images/101_0028.jpg/view?searchterm=None)
+15:31:06	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/images/101_0028.jpg/image_preview (from lizardleaves.com/images/101_0028.jpg/view?searchterm=None)
+15:31:18	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/crop-notification-service/stephentrevorrow-hotmail-co.uk/?searchterm=None (from lizardleaves.com/search?anchor_method=search&b_start:int=30&sort_on=Date&sort_order=reverse&Creator=vern)
+15:31:20	Warning: 	Moved Temporarily for lizardleaves.com/crop-notification-service/chefripley-aol.com/?searchterm=None
+15:31:20	Warning: 	File has moved from lizardleaves.com/crop-notification-service/chefripley-aol.com/?searchterm=None to http://lizardleaves.com/acl_users/credentials_cookie_auth/require_login?came_from=http%3A//lizardleaves.com/crop-notification-service/chefripley-aol.com%3Fsearchterm%3DNone
+15:31:24	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/press (from lizardleaves.com/press/press/?searchterm=None)
+15:31:24	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/press/images/site_flag.jpg/image_thumb (from lizardleaves.com/press/press/?searchterm=None)
+15:31:26	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/images/gearfarm3a.jpg/view (from lizardleaves.com/images/gearfarm3a.jpg/view?searchterm=None)
+15:31:27	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/images/gearfarm3a.jpg/sendto_form (from lizardleaves.com/images/gearfarm3a.jpg/view?searchterm=None)
+15:31:30	Error: 	"Error when decompressing" (-1) at link lizardleaves.com/media (from lizardleaves.com/media/Movie.swf/view?searchterm=None)
+15:31:30	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/media/images/site_flag.jpg/image_thumb (from lizardleaves.com/media/Movie.swf/view?searchterm=None)
+15:31:31	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/media/images/facebook/image_thumb (from lizardleaves.com/media/Movie.swf/view?searchterm=None)
+15:31:32	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/acl_users/credentials_cookie_auth/require_login?came_from=http%3A//lizardleaves.com/crop-notification-service/inquiry-trevano-co.uk%3Fsearchterm%3DNone (from lizardleaves.com/crop-notification-service/inquiry-trevano-co.uk/?searchterm=None)
+15:31:34	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/decoratives/images/facebook/image_thumb (from lizardleaves.com/decoratives/decoratives/?searchterm=None)
+15:31:34	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/decoratives/decoratives/sendto_form (from lizardleaves.com/decoratives/decoratives/?searchterm=None)
+15:31:36	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/field-crops/images/facebook/image_thumb (from lizardleaves.com/field-crops/field-crops/?searchterm=None)
+15:31:36	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/field-crops/field-crops/sendto_form (from lizardleaves.com/field-crops/field-crops/?searchterm=None)
+15:31:38	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/acl_users/credentials_cookie_auth/require_login?came_from=http%3A//lizardleaves.com/crop-notification-service/carolyn_and_gerald_lawrence-yahoo-co.uk%3Fsearchterm%3DNone (from lizardleaves.com/crop-notification-service/carolyn_and_gerald_lawrence-yahoo-co.uk/?searchterm=None)
+15:31:38	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/acl_users/credentials_cookie_auth/require_login?came_from=http%3A//lizardleaves.com/crop-notification-service/carolyn-lawrence-wanadoo.fr%3Fsearchterm%3DNone (from lizardleaves.com/crop-notification-service/carolyn-lawrence-wanadoo.fr/?searchterm=None)
+15:31:39	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/crop-notification-service/base_image.jpeg/sendto_form (from lizardleaves.com/crop-notification-service/base_image.jpeg/view?searchterm=None)
+15:31:39	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/crop-notification-service/base_image.jpeg/image_view_fullscreen (from lizardleaves.com/crop-notification-service/base_image.jpeg/view?searchterm=None)
+15:31:42	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/acl_users/credentials_cookie_auth/require_login?came_from=http%3A//lizardleaves.com/crop-notification-service/relax-polurrianhotel.com%3Fsearchterm%3DNone (from lizardleaves.com/crop-notification-service/relax-polurrianhotel.com/?searchterm=None)
+15:31:42	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/acl_users/credentials_cookie_auth/require_login?came_from=http%3A//lizardleaves.com/crop-notification-service/info-treeoflifeorganics-co.uk%3Fsearchterm%3DNone (from lizardleaves.com/crop-notification-service/info-treeoflifeorganics-co.uk/?searchterm=None)
+15:31:46	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/acl_users/credentials_cookie_auth/require_login?came_from=http%3A//lizardleaves.com/crop-notification-service/shop-naturalstorecornwall-co.uk%3Fsearchterm%3DNone (from lizardleaves.com/crop-notification-service/shop-naturalstorecornwall-co.uk/?searchterm=None)
+15:31:46	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/acl_users/credentials_cookie_auth/require_login?came_from=http%3A//lizardleaves.com/crop-notification-service/t-g-o-r-hotmail-co.uk%3Fsearchterm%3DNone (from lizardleaves.com/crop-notification-service/t-g-o-r-hotmail-co.uk/?searchterm=None)
+15:31:48	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/brochure/sendto_form (from lizardleaves.com/brochure/view?searchterm=None)
+15:31:48	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/herbs/images/facebook/image_thumb (from lizardleaves.com/herbs/herbs/?searchterm=None)
+15:31:50	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/herbs/herbs/sendto_form (from lizardleaves.com/herbs/herbs/?searchterm=None)
+15:31:50	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/polytunnel-crops/polytunnel-crops/sendto_form (from lizardleaves.com/polytunnel-crops/polytunnel-crops/?searchterm=None)
+15:31:52	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/delivery-information/images/facebook/image_thumb (from lizardleaves.com/delivery-information/deliver/?searchterm=None)
+15:31:52	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/delivery-information/deliver/sendto_form (from lizardleaves.com/delivery-information/deliver/?searchterm=None)
+15:31:54	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/images/mizuna/image_view_fullscreen (from lizardleaves.com/images/mizuna/view?searchterm=None)
+15:31:54	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/images/mizuna/image_preview (from lizardleaves.com/images/mizuna/view?searchterm=None)
+15:32:00	Warning: 	Retry after error 500 (Internal Server Error) at link lizardleaves.com/portal_factory/News Item/news_item.2007-02-26.0588048683/?searchterm=None (from lizardleaves.com/search?anchor_method=search&b_start:int=60&sort_on=Date&sort_order=reverse&Creator=vern)
+15:32:00	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/images/demeter_symbol.gif/sendto_form (from lizardleaves.com/images/demeter_symbol.gif/view?searchterm=None)
+15:32:01	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/images/demeter_symbol.gif/image_view_fullscreen (from lizardleaves.com/images/demeter_symbol.gif/view?searchterm=None)
+15:32:02	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/images/logo.JPG/sendto_form (from lizardleaves.com/images/logo.JPG/view?searchterm=None)
+15:32:04	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/images/logo.JPG/image_preview (from lizardleaves.com/images/logo.JPG/view?searchterm=None)
+15:32:06	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/images/okahijiki.jpg/view (from lizardleaves.com/images/okahijiki.jpg/view?searchterm=None)
+15:32:09	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/images/okahijiki.jpg/image_preview (from lizardleaves.com/images/okahijiki.jpg/view?searchterm=None)
+15:32:09	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/images/red chard.jpg/view (from lizardleaves.com/images/red chard.jpg/view?searchterm=None)
+15:32:11	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/images/raddiccio.jpg/image_view_fullscreen (from lizardleaves.com/images/raddiccio.jpg/view?searchterm=None)
+15:32:11	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/images/raddiccio.jpg/image_preview (from lizardleaves.com/images/raddiccio.jpg/view?searchterm=None)
+15:32:13	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/green-stemmed-pak-choi/image (from lizardleaves.com/Gallery/green-stemmed-pak-choi/image_view_fullscreen)
+15:32:14	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/green-stemmed-pak-choi-1/image_preview (from lizardleaves.com/Gallery/green-stemmed-pak-choi-1/view)
+15:33:02	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/yellow-chard/image_preview (from lizardleaves.com/Gallery/yellow-chard/view)
+15:34:02	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/yellow-chard-1/view (from lizardleaves.com/Gallery/atct_album_view?anchor_method=atct_album_view&b_start:int=12&-C=)
+15:34:24	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/mustard-leaf-ruby-frills/image_preview (from lizardleaves.com/Gallery/mustard-leaf-ruby-frills/view)
+15:34:45	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/russian-kale/image_view_fullscreen (from lizardleaves.com/Gallery/russian-kale/view)
+15:34:46	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/russian-kale-1/sendto_form (from lizardleaves.com/Gallery/russian-kale-1/view)
+15:34:58	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/pea-shoots/sendto_form (from lizardleaves.com/Gallery/pea-shoots/view)
+15:35:37	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/greek-cress/image (from lizardleaves.com/Gallery/greek-cress/image_view_fullscreen)
+15:36:12	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/greek-cress-1/image_preview (from lizardleaves.com/Gallery/greek-cress-1/view)
+15:36:24	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/seasonal-mixed-babyleaves/image (from lizardleaves.com/Gallery/seasonal-mixed-babyleaves/image_view_fullscreen)
+15:36:25	Warning: 	Retry after error -2 (Receive Time Out) at link lizardleaves.com/Gallery/mustard-leaf-green-frills/image (from lizardleaves.com/Gallery/mustard-leaf-green-frills/image_view_fullscreen)
+15:36:48	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/tatsoi-tah-tsai/image_view_fullscreen (from lizardleaves.com/Gallery/tatsoi-tah-tsai/view)
+15:36:51	Warning: 	Retry after error -2 (Receive Time Out) at link lizardleaves.com/Gallery/purple-tatsoi-3/image (from lizardleaves.com/Gallery/purple-tatsoi-3/image_view_fullscreen)
+15:37:22	Warning: 	Retry after error -4 (Receive Error) at link lizardleaves.com/Gallery/mustard-leaf-ruby-frills-2/image (from lizardleaves.com/Gallery/mustard-leaf-ruby-frills-2/image_view_fullscreen)
+15:37:35	Warning: 	Retry after error -4 (Receive Error) at link lizardleaves.com/Gallery/mustard-leaf-ruby-frills-2/image_preview (from lizardleaves.com/Gallery/mustard-leaf-ruby-frills-2/view)
+15:37:44	Warning: 	Retry after error -4 (Receive Error) at link lizardleaves.com/Gallery/green-batavia-2/image_view_fullscreen (from lizardleaves.com/Gallery/green-batavia-2/view)
+15:39:05	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/images/101_0032.jpg/image_preview (from lizardleaves.com/images/101_0032.jpg/view?searchterm=None)
+15:39:17	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/images/101_0030.jpg/image_preview (from lizardleaves.com/images/101_0030.jpg/view?searchterm=None)
+15:39:17	Warning: 	Moved Temporarily for lizardleaves.com/crop-notification-service/stephentrevorrow-hotmail-co.uk/?searchterm=None
+15:39:17	Warning: 	File has moved from lizardleaves.com/crop-notification-service/stephentrevorrow-hotmail-co.uk/?searchterm=None to http://lizardleaves.com/acl_users/credentials_cookie_auth/require_login?came_from=http%3A//lizardleaves.com/crop-notification-service/stephentrevorrow-hotmail-co.uk%3Fsearchterm%3DNone
+15:39:18	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/acl_users/credentials_cookie_auth/require_login?came_from=http%3A//lizardleaves.com/crop-notification-service/chefripley-aol.com%3Fsearchterm%3DNone (from lizardleaves.com/crop-notification-service/chefripley-aol.com/?searchterm=None)
+15:39:19	Error: 	"Error when decompressing" (-1) at link lizardleaves.com/press (from lizardleaves.com/press/press/?searchterm=None)
+15:39:19	Error: 	Unable to save file /home/ian/Website-Migrations/Lizard Leaves/lizardleaves.com/press: Is a directory
+15:39:32	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/acl_users/credentials_cookie_auth/require_login?came_from=http%3A//lizardleaves.com/crop-notification-service/t-g-o-r-hotmail-co.uk%3Fsearchterm%3DNone (from lizardleaves.com/crop-notification-service/t-g-o-r-hotmail-co.uk/?searchterm=None)
+15:39:34	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/crop-notification-service/root-ianlawrence.info?searchterm=None (from lizardleaves.com/acl_users/credentials_cookie_auth/require_login?came_from=http%3A//lizardleaves.com/crop-notification-service/root-ianlawrence.info%3Fsearchterm%3DNone)
+15:39:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link lizardleaves.com/portal_factory/News Item/news_item.2007-02-26.0588048683/?searchterm=None (from lizardleaves.com/search?anchor_method=search&b_start:int=60&sort_on=Date&sort_order=reverse&Creator=vern)
+15:39:35	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/images/okahijiki.jpg/image (from lizardleaves.com/images/okahijiki.jpg/image_view_fullscreen)
+15:39:35	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/images/red chard.jpg/image (from lizardleaves.com/images/red chard.jpg/image_view_fullscreen)
+15:39:37	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/yukina-savoy-1/image (from lizardleaves.com/Gallery/yukina-savoy-1/image_view_fullscreen)
+15:39:37	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/green-batavia/sendto_form (from lizardleaves.com/Gallery/green-batavia/view)
+15:39:39	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/green-batavia/image_preview (from lizardleaves.com/Gallery/green-batavia/view)
+15:39:47	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/green-batavia-1/image_preview (from lizardleaves.com/Gallery/green-batavia-1/view)
+15:39:48	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/red-batavia/sendto_form (from lizardleaves.com/Gallery/red-batavia/view)
+15:40:52	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/red-batavia/image_preview (from lizardleaves.com/Gallery/red-batavia/view)
+15:41:06	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/mustard-leaf-ruby-frills-1/sendto_form (from lizardleaves.com/Gallery/mustard-leaf-ruby-frills-1/view)
+15:41:18	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/russian-kale/image_view_fullscreen (from lizardleaves.com/Gallery/russian-kale/view)
+15:41:21	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/seasonal-mixed-babyleaves/image (from lizardleaves.com/Gallery/seasonal-mixed-babyleaves/image_view_fullscreen)
+15:42:51	Error: 	"No data (connection closed)" (-4) after 2 retries at link lizardleaves.com/Gallery/green-batavia-2/image_view_fullscreen (from lizardleaves.com/Gallery/green-batavia-2/view)
+15:42:51	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/images/101_0031.jpg/image (from lizardleaves.com/images/101_0031.jpg/image_view_fullscreen)
+15:43:18	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/crop-notification-service/relax-polurrianhotel.com?searchterm=None (from lizardleaves.com/acl_users/credentials_cookie_auth/require_login?came_from=http%3A//lizardleaves.com/crop-notification-service/relax-polurrianhotel.com%3Fsearchterm%3DNone)
+15:43:18	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/crop-notification-service/info-treeoflifeorganics-co.uk?searchterm=None (from lizardleaves.com/acl_users/credentials_cookie_auth/require_login?came_from=http%3A//lizardleaves.com/crop-notification-service/info-treeoflifeorganics-co.uk%3Fsearchterm%3DNone)
+15:43:22	Warning: 	Moved Temporarily for lizardleaves.com/crop-notification-service/root-ianlawrence.info?searchterm=None
+15:43:22	Warning: 	File has moved from lizardleaves.com/crop-notification-service/root-ianlawrence.info?searchterm=None to http://lizardleaves.com/acl_users/credentials_cookie_auth/require_login?came_from=http%3A//lizardleaves.com/crop-notification-service/root-ianlawrence.info%3Fsearchterm%3DNone
+15:43:22	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/green-batavia-1/image_preview (from lizardleaves.com/Gallery/green-batavia-1/view)
+15:43:22	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/yellow-chard-1/sendto_form (from lizardleaves.com/Gallery/yellow-chard-1/view)
+15:43:29	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/yellow-chard-1/image_preview (from lizardleaves.com/Gallery/yellow-chard-1/view)
+15:44:49	Warning: 	Moved Temporarily for lizardleaves.com/crop-notification-service/relax-polurrianhotel.com?searchterm=None
+15:44:49	Warning: 	File has moved from lizardleaves.com/crop-notification-service/relax-polurrianhotel.com?searchterm=None to http://lizardleaves.com/acl_users/credentials_cookie_auth/require_login?came_from=http%3A//lizardleaves.com/crop-notification-service/relax-polurrianhotel.com%3Fsearchterm%3DNone
+15:44:49	Warning: 	Moved Temporarily for lizardleaves.com/crop-notification-service/info-treeoflifeorganics-co.uk?searchterm=None
+15:44:49	Warning: 	File has moved from lizardleaves.com/crop-notification-service/info-treeoflifeorganics-co.uk?searchterm=None to http://lizardleaves.com/acl_users/credentials_cookie_auth/require_login?came_from=http%3A//lizardleaves.com/crop-notification-service/info-treeoflifeorganics-co.uk%3Fsearchterm%3DNone
+15:44:49	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/yellow-chard-1/sendto_form (from lizardleaves.com/Gallery/yellow-chard-1/view)
+15:44:49	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/Gallery/yellow-chard-1/image_preview (from lizardleaves.com/Gallery/yellow-chard-1/view)
+15:49:05	Error: 	Unable to save file /home/ian/Website-Migrations/Lizard Leaves/lizardleaves.com/media/Movie.swf: Is a directory
+15:49:05	Warning: 	file not stored in cache due to bogus state (broken size, expected 43142 got 0): lizardleaves.com/media/Movie.swf
+15:49:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/crop-notification-service/lizardleaves-update-5/RSS
+15:49:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/crop-notification-service/lizardleaves-update-4/RSS
+15:49:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/crop-notification-service/lizardleaves-update-1/RSS
+15:49:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/crop-notification-service/lizardleaves-update-2/RSS
+15:49:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/crop-notification-service/lizardleaves-update/RSS
+15:49:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/events/previous/RSS
+15:49:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/crop-notification-service/RSS
+15:49:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/search_rss?Creator=vern&sort_on=Date&sort_order=reverse
+15:49:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/search_rss?anchor_method=search&b_start:int=60&sort_on=Date&sort_order=reverse&Creator=vern
+15:49:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/search_rss?anchor_method=search&b_start:int=30&sort_on=Date&sort_order=reverse&Creator=vern
+15:49:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/crop-notification-service/lizardleaves-update-3/RSS
+15:49:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/application.png
+15:49:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/search_rss?anchor_method=search&sort_order=reverse&b_start:int=0&Creator=vern&sort_on=Date
+15:51:01	Warning: 	HTML file (1387 bytes) retransferred due to lack of cache: lizardleaves.com/portal_factory/News Item/news_item.2007-02-26.0588048683
+15:51:02	Warning: 	Retry after error 500 (Internal Server Error) at link lizardleaves.com/portal_factory/News Item/news_item.2007-02-26.0588048683 (from lizardleaves.com/author/vern)
+15:51:02	Warning: 	HTML file (1387 bytes) retransferred due to lack of cache: lizardleaves.com/portal_factory/News Item/news_item.2007-02-26.0588048683
+15:51:02	Warning: 	HTML file (13929 bytes) retransferred due to lack of cache: lizardleaves.com/contact-information/contact-information/sendto_form
+15:51:03	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/contact-information/images/logo.JPG (from lizardleaves.com/contact-information)
+15:51:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/Gallery/sendto_form
+15:51:04	Warning: 	HTML file (13851 bytes) retransferred due to lack of cache: lizardleaves.com/Gallery/rocket-flowers-1/view
+15:51:05	Warning: 	HTML file (13851 bytes) retransferred due to lack of cache: lizardleaves.com/Gallery/rocket-flowers-3/view
+15:51:06	Warning: 	HTML file (13835 bytes) retransferred due to lack of cache: lizardleaves.com/Gallery/purple-tatsoi/view
+15:51:07	Warning: 	HTML file (13838 bytes) retransferred due to lack of cache: lizardleaves.com/Gallery/purple-tatsoi-2/view
+15:51:08	Warning: 	HTML file (13826 bytes) retransferred due to lack of cache: lizardleaves.com/Gallery/yukina-savoy-1/view
+15:51:09	Warning: 	HTML file (13915 bytes) retransferred due to lack of cache: lizardleaves.com/Gallery/green-stemmed-pak-choi/view
+15:51:10	Warning: 	HTML file (13885 bytes) retransferred due to lack of cache: lizardleaves.com/find-places-to-buy-our-leaves/sendto_form
+15:51:11	Warning: 	HTML file (9701 bytes) retransferred due to lack of cache: lizardleaves.com/acl_users/credentials_cookie_auth/require_login?came_from=http%3A//lizardleaves.com/Members/index_html
+15:51:12	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/jscalendar/calendar-system.css (from lizardleaves.com/crop-notification-service/lizardleaves-update-5)
+15:51:15	Warning: 	HTML file (14906 bytes) retransferred due to lack of cache: lizardleaves.com/crop-notification-service/lizardleaves-update-3
+15:51:17	Error: 	"Error when decompressing" (-1) at link lizardleaves.com/events (from lizardleaves.com/events/previous)
+15:51:17	Error: 	Unable to save file /home/ian/Website-Migrations/Lizard Leaves/lizardleaves.com/events: Is a directory
+15:51:17	Warning: 	HTML file (13163 bytes) retransferred due to lack of cache: lizardleaves.com/eat-out-in-cornwall/?searchterm=None
+15:51:18	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/products-and-availability/products-and-availability/sendto_form
+15:51:19	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/Gallery/sendto_form
+15:51:20	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/search_icon.gif (from lizardleaves.com/Gallery/rocket-flowers-1/view)
+15:51:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/Gallery/rocket-flowers-2/sendto_form
+15:51:22	Warning: 	HTML file (14381 bytes) retransferred due to lack of cache: lizardleaves.com/Gallery/purple-tatsoi/sendto_form
+15:51:23	Warning: 	HTML file (14391 bytes) retransferred due to lack of cache: lizardleaves.com/Gallery/purple-tatsoi-1/sendto_form
+15:51:25	Warning: 	HTML file (14391 bytes) retransferred due to lack of cache: lizardleaves.com/Gallery/purple-tatsoi-2/sendto_form
+15:51:26	Warning: 	HTML file (14383 bytes) retransferred due to lack of cache: lizardleaves.com/Gallery/yukina-savoy-1/sendto_form
+15:51:27	Warning: 	HTML file (14383 bytes) retransferred due to lack of cache: lizardleaves.com/Gallery/yukina-savoy-2/sendto_form
+15:51:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/Gallery/atct_album_view?anchor_method=atct_album_view&b_start:int=12&-C=
+15:51:29	Warning: 	HTML file (13820 bytes) retransferred due to lack of cache: lizardleaves.com/Gallery/greek-cress-1/view
+15:51:30	Warning: 	HTML file (13955 bytes) retransferred due to lack of cache: lizardleaves.com/Gallery/seasonal-mixed-babyleaves/view
+15:51:31	Warning: 	HTML file (13850 bytes) retransferred due to lack of cache: lizardleaves.com/Gallery/tatsoi-tah-tsai/view
+15:51:32	Warning: 	HTML file (13838 bytes) retransferred due to lack of cache: lizardleaves.com/Gallery/green-batavia-2/view
+15:51:33	Warning: 	HTML file (13823 bytes) retransferred due to lack of cache: lizardleaves.com/Gallery/red-batavia-2/view
+15:51:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/crop-notification-service/lizardleaves-update-3/RSS
+15:51:37	Warning: 	HTML file (13568 bytes) retransferred due to lack of cache: lizardleaves.com/images/four-leaf/view
+15:51:38	Warning: 	HTML file (14652 bytes) retransferred due to lack of cache: lizardleaves.com/find-places-to-eat-our-leaves/?searchterm=None
+15:51:44	Warning: 	HTML file (13521 bytes) retransferred due to lack of cache: lizardleaves.com/images/mylor/view
+15:51:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/images/5-degrees-west/view
+15:51:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/images/facebook/view
+15:51:47	Warning: 	HTML file (13532 bytes) retransferred due to lack of cache: lizardleaves.com/images/miles/view
+15:51:48	Warning: 	HTML file (13586 bytes) retransferred due to lack of cache: lizardleaves.com/images/sustainable/view
+15:51:49	Warning: 	HTML file (13577 bytes) retransferred due to lack of cache: lizardleaves.com/images/specialist/view
+15:51:50	Warning: 	HTML file (13563 bytes) retransferred due to lack of cache: lizardleaves.com/images/freshness/view
+15:51:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/images/plate/view
+15:51:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/images/gourmet/view
+15:51:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/images/soil-association/view
+15:51:54	Warning: 	HTML file (21170 bytes) retransferred due to lack of cache: lizardleaves.com/Gallery/atct_album_view?searchterm=None&anchor_method=atct_album_view&b_start:int=12
+15:51:56	Warning: 	HTML file (14856 bytes) retransferred due to lack of cache: lizardleaves.com/products-and-availability/?searchterm=None
+15:51:57	Warning: 	HTML file (14443 bytes) retransferred due to lack of cache: lizardleaves.com/crop-notification-service/base_image.jpeg/view?searchterm=None
+15:51:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/Gallery/purple-tatsoi-2/image_view_fullscreen
+15:51:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/Gallery/yukina-savoy/image_view_fullscreen
+15:52:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/Gallery/green-stemmed-pak-choi/sendto_form
+15:52:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/Gallery/green-batavia/view
+15:52:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/Gallery/green-batavia-1/view
+15:52:03	Warning: 	HTML file (13821 bytes) retransferred due to lack of cache: lizardleaves.com/Gallery/yellow-chard/view
+15:52:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/Gallery/red-batavia/view
+15:52:05	Warning: 	HTML file (13823 bytes) retransferred due to lack of cache: lizardleaves.com/Gallery/red-batavia-1/view
+15:52:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/Gallery/yellow-chard-1/view
+15:52:07	Warning: 	HTML file (13939 bytes) retransferred due to lack of cache: lizardleaves.com/Gallery/mustard-leaf-ruby-frills/view
+15:52:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/Gallery/mustard-leaf-ruby-frills-1/view
+15:52:09	Warning: 	HTML file (13818 bytes) retransferred due to lack of cache: lizardleaves.com/Gallery/russian-kale/view
+15:52:10	Warning: 	HTML file (13828 bytes) retransferred due to lack of cache: lizardleaves.com/Gallery/russian-kale-1/view
+15:52:11	Warning: 	HTML file (13800 bytes) retransferred due to lack of cache: lizardleaves.com/Gallery/pea-shoots/view
+15:52:12	Warning: 	HTML file (14365 bytes) retransferred due to lack of cache: lizardleaves.com/Gallery/greek-cress/sendto_form
+15:52:13	Warning: 	HTML file (14375 bytes) retransferred due to lack of cache: lizardleaves.com/Gallery/greek-cress-1/sendto_form
+15:52:14	Warning: 	HTML file (14383 bytes) retransferred due to lack of cache: lizardleaves.com/Gallery/russian-kale-2/sendto_form
+15:52:15	Warning: 	HTML file (14391 bytes) retransferred due to lack of cache: lizardleaves.com/Gallery/purple-tatsoi-3/sendto_form
+15:52:16	Warning: 	HTML file (14479 bytes) retransferred due to lack of cache: lizardleaves.com/Gallery/mustard-leaf-ruby-frills-2/sendto_form
+15:52:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/Gallery/pea-shoots-1/sendto_form
+15:52:18	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/Gallery/pea-shoots-2/sendto_form
+15:52:19	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/Gallery/mizuna/sendto_form
+15:52:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/Gallery/green-stemmed-pak-choi-2/sendto_form
+15:52:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/Gallery/greek-cress-2/sendto_form
+15:52:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/Gallery/yellow-chard-2/sendto_form
+15:52:24	Error: 	"Error when decompressing" (-1) at link lizardleaves.com/events (from lizardleaves.com/events/previous)
+15:52:24	Error: 	Unable to save file /home/ian/Website-Migrations/Lizard Leaves/lizardleaves.com/events: Is a directory
+15:52:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/images/flying/view?searchterm=None
+15:52:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/images/mylor/sendto_form
+15:52:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/images/facebook/view
+15:52:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/images/freshness/sendto_form
+15:52:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/images/plate/view
+15:52:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/images/gourmet/view
+15:52:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/images/soil-association/view
+15:52:31	Warning: 	HTML file (13591 bytes) retransferred due to lack of cache: lizardleaves.com/images/site_flag.jpg/view
+15:52:32	Warning: 	HTML file (13587 bytes) retransferred due to lack of cache: lizardleaves.com/images/101_0032.jpg/view
+15:52:33	Warning: 	HTML file (13953 bytes) retransferred due to lack of cache: lizardleaves.com/press/press/sendto_form
+15:52:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/images/gearfarm3a.jpg/view
+15:52:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/acl_users/credentials_cookie_auth/require_login?came_from=http%3A//lizardleaves.com/crop-notification-service/inquiry-trevano-co.uk%3Fsearchterm%3DNone
+15:52:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/acl_users/credentials_cookie_auth/require_login?came_from=http%3A//lizardleaves.com/crop-notification-service/carolyn_and_gerald_lawrence-yahoo-co.uk%3Fsearchterm%3DNone
+15:52:39	Warning: 	HTML file (14371 bytes) retransferred due to lack of cache: lizardleaves.com/crop-notification-service/base_image.jpeg/view
+15:52:40	Warning: 	HTML file (9937 bytes) retransferred due to lack of cache: lizardleaves.com/acl_users/credentials_cookie_auth/require_login?came_from=http%3A//lizardleaves.com/crop-notification-service/mullion-cove-btinternet.com%3Fsearchterm%3DNone
+15:52:42	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/pdf_icon.gif (from lizardleaves.com/brochure/view?searchterm=None)
+15:52:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/polytunnel-crops/polytunnel-crops/sendto_form
+15:52:43	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/images/tomatoe.jpg (from lizardleaves.com/polytunnel-crops/polytunnel-crops/?searchterm=None)
+15:52:43	Warning: 	HTML file (13597 bytes) retransferred due to lack of cache: lizardleaves.com/images/logo.JPG/view
+15:52:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/images/okahijiki.jpg/view
+15:52:45	Warning: 	HTML file (13564 bytes) retransferred due to lack of cache: lizardleaves.com/images/raddiccio.jpg/view
+15:52:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/Gallery/yukina-savoy-1/image_view_fullscreen
+15:52:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/Gallery/green-stemmed-pak-choi/sendto_form
+15:52:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/Gallery/yellow-chard-1/view
+15:52:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/Gallery/russian-kale-1/sendto_form
+15:52:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/Gallery/pea-shoots/sendto_form
+15:52:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/Gallery/tatsoi-tah-tsai/image_view_fullscreen
+15:52:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/Gallery/pea-shoots-2/sendto_form
+15:52:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/Gallery/green-stemmed-pak-choi-2/sendto_form
+15:52:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/Gallery/greek-cress-2/sendto_form
+15:52:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/Gallery/yellow-chard-2/sendto_form
+15:52:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/images/budock/view
+15:52:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/images/freshness/sendto_form
+15:52:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/images/site_flag.jpg/image_view_fullscreen
+15:52:59	Warning: 	HTML file (1213 bytes) retransferred due to lack of cache: lizardleaves.com/crop-notification-service/stephentrevorrow-hotmail-co.uk/?searchterm=None
+15:53:00	Warning: 	Moved Temporarily for lizardleaves.com/crop-notification-service/stephentrevorrow-hotmail-co.uk/?searchterm=None
+15:53:00	Warning: 	File has moved from lizardleaves.com/crop-notification-service/stephentrevorrow-hotmail-co.uk/?searchterm=None to http://lizardleaves.com/acl_users/credentials_cookie_auth/require_login?came_from=http%3A//lizardleaves.com/crop-notification-service/stephentrevorrow-hotmail-co.uk%3Fsearchterm%3DNone
+15:53:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/images/gearfarm3a.jpg/view
+15:53:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/acl_users/credentials_cookie_auth/require_login?came_from=http%3A//lizardleaves.com/crop-notification-service/inquiry-trevano-co.uk%3Fsearchterm%3DNone
+15:53:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/decoratives/decoratives/sendto_form
+15:53:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/field-crops/field-crops/sendto_form
+15:53:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/herbs/herbs/sendto_form
+15:53:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/delivery-information/deliver/sendto_form
+15:53:08	Warning: 	Moved Temporarily for lizardleaves.com/crop-notification-service/root-ianlawrence.info?searchterm=None
+15:53:08	Warning: 	File has moved from lizardleaves.com/crop-notification-service/root-ianlawrence.info?searchterm=None to http://lizardleaves.com/acl_users/credentials_cookie_auth/require_login?came_from=http%3A//lizardleaves.com/crop-notification-service/root-ianlawrence.info%3Fsearchterm%3DNone
+15:53:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/images/okahijiki.jpg/view
+15:53:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/images/red chard.jpg/view
+15:53:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/Gallery/green-batavia/sendto_form
+15:53:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/Gallery/red-batavia/sendto_form
+15:53:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/Gallery/yellow-chard-1/view
+15:53:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/Gallery/mustard-leaf-ruby-frills-1/sendto_form
+15:53:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/Gallery/russian-kale/image_view_fullscreen
+15:53:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/Gallery/pea-shoots/sendto_form
+15:54:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/Gallery/tatsoi-tah-tsai/image_view_fullscreen
+15:54:10	Warning: 	HTML file (9949 bytes) retransferred due to lack of cache: lizardleaves.com/acl_users/credentials_cookie_auth/require_login?came_from=http%3A//lizardleaves.com/crop-notification-service/stephentrevorrow-hotmail-co.uk%3Fsearchterm%3DNone
+15:54:12	Warning: 	Moved Temporarily for lizardleaves.com/crop-notification-service/relax-polurrianhotel.com?searchterm=None
+15:54:12	Warning: 	File has moved from lizardleaves.com/crop-notification-service/relax-polurrianhotel.com?searchterm=None to http://lizardleaves.com/acl_users/credentials_cookie_auth/require_login?came_from=http%3A//lizardleaves.com/crop-notification-service/relax-polurrianhotel.com%3Fsearchterm%3DNone
+15:54:13	Warning: 	Moved Temporarily for lizardleaves.com/crop-notification-service/root-ianlawrence.info?searchterm=None
+15:54:13	Warning: 	File has moved from lizardleaves.com/crop-notification-service/root-ianlawrence.info?searchterm=None to http://lizardleaves.com/acl_users/credentials_cookie_auth/require_login?came_from=http%3A//lizardleaves.com/crop-notification-service/root-ianlawrence.info%3Fsearchterm%3DNone
+15:54:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/Gallery/green-batavia/sendto_form
+15:54:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/Gallery/yellow-chard-1/sendto_form
+15:54:16	Warning: 	Moved Temporarily for lizardleaves.com/crop-notification-service/relax-polurrianhotel.com?searchterm=None
+15:54:16	Warning: 	File has moved from lizardleaves.com/crop-notification-service/relax-polurrianhotel.com?searchterm=None to http://lizardleaves.com/acl_users/credentials_cookie_auth/require_login?came_from=http%3A//lizardleaves.com/crop-notification-service/relax-polurrianhotel.com%3Fsearchterm%3DNone
+15:54:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): lizardleaves.com/Gallery/yellow-chard-1/sendto_form
+15:54:17	Error: 	"Not Found" (404) at link lizardleaves.com/GET (from lizardleaves.com/portal_javascripts/GreenEarthTheme/ploneScripts5722.js)
+15:54:17	Error: 	"Not Found" (404) at link lizardleaves.com/POST (from lizardleaves.com/portal_javascripts/GreenEarthTheme/ploneScripts5722.js)
+15:54:17	Warning: 	Retry after error 500 (Internal Server Error) at link lizardleaves.com/portal_factory/News Item/news_item.2007-02-26.0588048683 (from lizardleaves.com/author/vern)
+15:54:17	Warning: 	HTML file (1387 bytes) retransferred due to lack of cache: lizardleaves.com/portal_factory/News Item/news_item.2007-02-26.0588048683
+15:54:17	Warning: 	Retry after error -4 (No data (connection closed)) at link lizardleaves.com/contact-information/images/logo.JPG (from lizardleaves.com/contact-information)
+15:54:56	Error: 	"Internal Server Error" (500) after 2 retries at link lizardleaves.com/portal_factory/News Item/news_item.2007-02-26.0588048683 (from lizardleaves.com/author/vern)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 hours 0 minutes 12 seconds : 1000 links scanned, 1137 files written (106325449 bytes overall) [57524942 bytes received at 15926 bytes/sec], 6511492 bytes transferred using HTTP compression in 577 files, ratio 21%, 2.6 requests per connection
+(18 errors, 376 warnings, 0 messages)

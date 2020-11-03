@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+         xmlns="http://purl.org/rss/1.0/">
+
+
+
+
+    
+
+
+
+<channel rdf:about="http://lizardleaves.com/search_rss">
+  <title>The Lizard Leaf Company</title>
+  <link>http://lizardleaves.com</link>
+  
+  <description>
+    
+            These are the search results for the query, showing results 31 to 45.
+        
+  </description>
+  
+  
+  
+  
+  <image rdf:resource="http://lizardleaves.com/logo.gif"/>
+
+  <items>
+    <rdf:Seq>
+        
+            <rdf:li rdf:resource="http://lizardleaves.com/products-and-availability"/>
+        
+        
+            <rdf:li rdf:resource="http://lizardleaves.com/products-and-availability/products-and-availability"/>
+        
+        
+            <rdf:li rdf:resource="http://lizardleaves.com/images/101_0032.jpg"/>
+        
+        
+            <rdf:li rdf:resource="http://lizardleaves.com/images/101_0031.jpg"/>
+        
+        
+            <rdf:li rdf:resource="http://lizardleaves.com/images/101_0030.jpg"/>
+        
+        
+            <rdf:li rdf:resource="http://lizardleaves.com/images/101_0028.jpg"/>
+        
+        
+            <rdf:li rdf:resource="http://lizardleaves.com/crop-notification-service/henhouseuk-aol.com"/>
+        
+        
+            <rdf:li rdf:resource="http://lizardleaves.com/crop-notification-service/stephentrevorrow-hotmail-co.uk"/>
+        
+        
+            <rdf:li rdf:resource="http://lizardleaves.com/crop-notification-service/chefripley-aol.com"/>
+        
+        
+            <rdf:li rdf:resource="http://lizardleaves.com/crop-notification-service/graeme-wholefood.net"/>
+        
+        
+            <rdf:li rdf:resource="http://lizardleaves.com/home-delivery/the-lizard-leaf-company"/>
+        
+        
+            <rdf:li rdf:resource="http://lizardleaves.com/crop-notification-service/carole-elsworth-virgin.net"/>
+        
+        
+            <rdf:li rdf:resource="http://lizardleaves.com/press/press"/>
+        
+        
+            <rdf:li rdf:resource="http://lizardleaves.com/images/gearfarm3a.jpg"/>
+        
+        
+            <rdf:li rdf:resource="http://lizardleaves.com/crop-notification-service/jan-roskillys-co.uk"/>
+        
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+    <item rdf:about="http://lizardleaves.com/products-and-availability">        <title>Products and Availability</title>        <link>http://lizardleaves.com/products-and-availability</link>        <description>Products and Availability</description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>vern</dc:creator>        <dc:rights></dc:rights>                <dc:date>2009-03-26T13:42:13Z</dc:date>        <dc:type>Folder</dc:type>    </item>
+    <item rdf:about="http://lizardleaves.com/products-and-availability/products-and-availability">        <title>Products and Availability</title>        <link>http://lizardleaves.com/products-and-availability/products-and-availability</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>vern</dc:creator>        <dc:rights></dc:rights>                    <dc:subject>products</dc:subject>                <dc:date>2018-06-16T14:26:13Z</dc:date>        <dc:type>Page</dc:type>    </item>
+    <item rdf:about="http://lizardleaves.com/images/101_0032.jpg">        <title>101_0032.jpg</title>        <link>http://lizardleaves.com/images/101_0032.jpg</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>vern</dc:creator>        <dc:rights></dc:rights>                <dc:date>2007-09-11T16:17:55Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://lizardleaves.com/images/101_0031.jpg">        <title>101_0031.jpg</title>        <link>http://lizardleaves.com/images/101_0031.jpg</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>vern</dc:creator>        <dc:rights></dc:rights>                <dc:date>2007-09-11T16:17:08Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://lizardleaves.com/images/101_0030.jpg">        <title>101_0030.jpg</title>        <link>http://lizardleaves.com/images/101_0030.jpg</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>vern</dc:creator>        <dc:rights></dc:rights>                <dc:date>2007-09-11T16:16:15Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://lizardleaves.com/images/101_0028.jpg">        <title>101_0028.jpg</title>        <link>http://lizardleaves.com/images/101_0028.jpg</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>vern</dc:creator>        <dc:rights></dc:rights>                <dc:date>2007-09-11T16:15:08Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://lizardleaves.com/crop-notification-service/henhouseuk-aol.com">        <title>henhouseuk@aol.com</title>        <link>http://lizardleaves.com/crop-notification-service/henhouseuk-aol.com</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>vern</dc:creator>        <dc:rights></dc:rights>                <dc:date>2007-06-04T08:51:37Z</dc:date>        <dc:type>Subscriber</dc:type>    </item>
+    <item rdf:about="http://lizardleaves.com/crop-notification-service/stephentrevorrow-hotmail-co.uk">        <title>stephentrevorrow@hotmail.co.uk</title>        <link>http://lizardleaves.com/crop-notification-service/stephentrevorrow-hotmail-co.uk</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>vern</dc:creator>        <dc:rights></dc:rights>                <dc:date>2007-05-23T23:49:50Z</dc:date>        <dc:type>Subscriber</dc:type>    </item>
+    <item rdf:about="http://lizardleaves.com/crop-notification-service/chefripley-aol.com">        <title>chefripley@aol.com</title>        <link>http://lizardleaves.com/crop-notification-service/chefripley-aol.com</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>vern</dc:creator>        <dc:rights></dc:rights>                <dc:date>2007-05-23T08:55:54Z</dc:date>        <dc:type>Subscriber</dc:type>    </item>
+    <item rdf:about="http://lizardleaves.com/crop-notification-service/graeme-wholefood.net">        <title>graeme@wholefood.net</title>        <link>http://lizardleaves.com/crop-notification-service/graeme-wholefood.net</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>vern</dc:creator>        <dc:rights></dc:rights>                <dc:date>2007-05-21T08:28:38Z</dc:date>        <dc:type>Subscriber</dc:type>    </item>
+    <item rdf:about="http://lizardleaves.com/home-delivery/the-lizard-leaf-company">        <title>The Lizard Leaf Company</title>        <link>http://lizardleaves.com/home-delivery/the-lizard-leaf-company</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>vern</dc:creator>        <dc:rights></dc:rights>                <dc:date>2007-05-16T15:00:16Z</dc:date>        <dc:type>Form Mailer</dc:type>    </item>
+    <item rdf:about="http://lizardleaves.com/crop-notification-service/carole-elsworth-virgin.net">        <title>carole.elsworth@virgin.net</title>        <link>http://lizardleaves.com/crop-notification-service/carole-elsworth-virgin.net</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>vern</dc:creator>        <dc:rights></dc:rights>                <dc:date>2007-05-08T18:34:01Z</dc:date>        <dc:type>Subscriber</dc:type>    </item>
+    <item rdf:about="http://lizardleaves.com/press/press">        <title>Press</title>        <link>http://lizardleaves.com/press/press</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>vern</dc:creator>        <dc:rights></dc:rights>                <dc:date>2007-05-01T11:24:09Z</dc:date>        <dc:type>Page</dc:type>    </item>
+    <item rdf:about="http://lizardleaves.com/images/gearfarm3a.jpg">        <title>Organic Oasis</title>        <link>http://lizardleaves.com/images/gearfarm3a.jpg</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>vern</dc:creator>        <dc:rights></dc:rights>                <dc:date>2007-04-28T01:24:36Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://lizardleaves.com/crop-notification-service/jan-roskillys-co.uk">        <title>jan@roskillys.co.uk</title>        <link>http://lizardleaves.com/crop-notification-service/jan-roskillys-co.uk</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>vern</dc:creator>        <dc:rights></dc:rights>                <dc:date>2007-04-23T15:29:14Z</dc:date>        <dc:type>Subscriber</dc:type>    </item>
+
+
+
+</rdf:RDF>

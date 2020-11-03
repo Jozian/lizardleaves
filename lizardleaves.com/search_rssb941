@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+         xmlns="http://purl.org/rss/1.0/">
+
+
+
+
+    
+
+
+
+<channel rdf:about="http://lizardleaves.com/search_rss">
+  <title>The Lizard Leaf Company</title>
+  <link>http://lizardleaves.com</link>
+  
+  <description>
+    
+            These are the search results for the query, showing results 61 to 75.
+        
+  </description>
+  
+  
+  
+  
+  <image rdf:resource="http://lizardleaves.com/logo.gif"/>
+
+  <items>
+    <rdf:Seq>
+        
+            <rdf:li rdf:resource="http://lizardleaves.com/crop-notification-service/base_image.jpeg"/>
+        
+        
+            <rdf:li rdf:resource="http://lizardleaves.com/crop-notification-service/mullion-cove-btinternet.com"/>
+        
+        
+            <rdf:li rdf:resource="http://lizardleaves.com/crop-notification-service/relax-polurrianhotel.com"/>
+        
+        
+            <rdf:li rdf:resource="http://lizardleaves.com/crop-notification-service/info-treeoflifeorganics-co.uk"/>
+        
+        
+            <rdf:li rdf:resource="http://lizardleaves.com/crop-notification-service/sales-ploughtoplate-co.uk"/>
+        
+        
+            <rdf:li rdf:resource="http://lizardleaves.com/crop-notification-service/info-shipinnmawgan-co.uk"/>
+        
+        
+            <rdf:li rdf:resource="http://lizardleaves.com/crop-notification-service/shop-naturalstorecornwall-co.uk"/>
+        
+        
+            <rdf:li rdf:resource="http://lizardleaves.com/crop-notification-service/t-g-o-r-hotmail-co.uk"/>
+        
+        
+            <rdf:li rdf:resource="http://lizardleaves.com/crop-notification-service/mfjwarner-gmail.com"/>
+        
+        
+            <rdf:li rdf:resource="http://lizardleaves.com/brochure"/>
+        
+        
+            <rdf:li rdf:resource="http://lizardleaves.com/contact-information"/>
+        
+        
+            <rdf:li rdf:resource="http://lizardleaves.com/herbs/herbs"/>
+        
+        
+            <rdf:li rdf:resource="http://lizardleaves.com/polytunnel-crops/polytunnel-crops"/>
+        
+        
+            <rdf:li rdf:resource="http://lizardleaves.com/delivery-information/deliver"/>
+        
+        
+            <rdf:li rdf:resource="http://lizardleaves.com/images/mizuna"/>
+        
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+    <item rdf:about="http://lizardleaves.com/crop-notification-service/base_image.jpeg">        <title>The Lizard Leaf Company Loo</title>        <link>http://lizardleaves.com/crop-notification-service/base_image.jpeg</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>vern</dc:creator>        <dc:rights></dc:rights>                <dc:date>2007-03-31T11:42:34Z</dc:date>        <dc:type>Image</dc:type>    </item>
+    <item rdf:about="http://lizardleaves.com/crop-notification-service/mullion-cove-btinternet.com">        <title>mullion.cove@btinternet.com</title>        <link>http://lizardleaves.com/crop-notification-service/mullion-cove-btinternet.com</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>vern</dc:creator>        <dc:rights></dc:rights>                <dc:date>2007-03-31T11:02:05Z</dc:date>        <dc:type>Subscriber</dc:type>    </item>
+    <item rdf:about="http://lizardleaves.com/crop-notification-service/relax-polurrianhotel.com">        <title>relax@polurrianhotel.com</title>        <link>http://lizardleaves.com/crop-notification-service/relax-polurrianhotel.com</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>vern</dc:creator>        <dc:rights></dc:rights>                <dc:date>2007-03-31T10:48:48Z</dc:date>        <dc:type>Subscriber</dc:type>    </item>
+    <item rdf:about="http://lizardleaves.com/crop-notification-service/info-treeoflifeorganics-co.uk">        <title>info@treeoflifeorganics.co.uk</title>        <link>http://lizardleaves.com/crop-notification-service/info-treeoflifeorganics-co.uk</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>vern</dc:creator>        <dc:rights></dc:rights>                <dc:date>2007-03-30T13:08:30Z</dc:date>        <dc:type>Subscriber</dc:type>    </item>
+    <item rdf:about="http://lizardleaves.com/crop-notification-service/sales-ploughtoplate-co.uk">        <title>sales@ploughtoplate.co.uk</title>        <link>http://lizardleaves.com/crop-notification-service/sales-ploughtoplate-co.uk</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>vern</dc:creator>        <dc:rights></dc:rights>                <dc:date>2007-03-29T16:58:59Z</dc:date>        <dc:type>Subscriber</dc:type>    </item>
+    <item rdf:about="http://lizardleaves.com/crop-notification-service/info-shipinnmawgan-co.uk">        <title>info@shipinnmawgan.co.uk</title>        <link>http://lizardleaves.com/crop-notification-service/info-shipinnmawgan-co.uk</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>vern</dc:creator>        <dc:rights></dc:rights>                <dc:date>2007-03-29T16:55:59Z</dc:date>        <dc:type>Subscriber</dc:type>    </item>
+    <item rdf:about="http://lizardleaves.com/crop-notification-service/shop-naturalstorecornwall-co.uk">        <title>shop@naturalstorecornwall.co.uk</title>        <link>http://lizardleaves.com/crop-notification-service/shop-naturalstorecornwall-co.uk</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>vern</dc:creator>        <dc:rights></dc:rights>                <dc:date>2007-03-29T16:55:33Z</dc:date>        <dc:type>Subscriber</dc:type>    </item>
+    <item rdf:about="http://lizardleaves.com/crop-notification-service/t-g-o-r-hotmail-co.uk">        <title>t.g.o.r@hotmail.co.uk</title>        <link>http://lizardleaves.com/crop-notification-service/t-g-o-r-hotmail-co.uk</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>vern</dc:creator>        <dc:rights></dc:rights>                <dc:date>2007-03-29T16:54:33Z</dc:date>        <dc:type>Subscriber</dc:type>    </item>
+    <item rdf:about="http://lizardleaves.com/crop-notification-service/mfjwarner-gmail.com">        <title>mfjwarner@gmail.com</title>        <link>http://lizardleaves.com/crop-notification-service/mfjwarner-gmail.com</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>vern</dc:creator>        <dc:rights></dc:rights>                <dc:date>2007-03-29T16:54:04Z</dc:date>        <dc:type>Subscriber</dc:type>    </item>
+    <item rdf:about="http://lizardleaves.com/brochure">        <title>Brochure March 2007</title>        <link>http://lizardleaves.com/brochure</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>vern</dc:creator>        <dc:rights></dc:rights>                <dc:date>2007-03-29T15:30:12Z</dc:date>        <dc:type>File</dc:type>    </item>
+    <item rdf:about="http://lizardleaves.com/contact-information">        <title>Contact Information</title>        <link>http://lizardleaves.com/contact-information</link>        <description>How to contact the Lizard Leaf Company </description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>vern</dc:creator>        <dc:rights></dc:rights>                <dc:date>2007-03-27T15:11:18Z</dc:date>        <dc:type>Folder</dc:type>    </item>
+    <item rdf:about="http://lizardleaves.com/herbs/herbs">        <title>Herbs</title>        <link>http://lizardleaves.com/herbs/herbs</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>vern</dc:creator>        <dc:rights></dc:rights>                <dc:date>2007-04-05T21:57:14Z</dc:date>        <dc:type>Page</dc:type>    </item>
+    <item rdf:about="http://lizardleaves.com/polytunnel-crops/polytunnel-crops">        <title>Polytunnel Crops</title>        <link>http://lizardleaves.com/polytunnel-crops/polytunnel-crops</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>vern</dc:creator>        <dc:rights></dc:rights>                <dc:date>2007-04-05T21:44:54Z</dc:date>        <dc:type>Page</dc:type>    </item>
+    <item rdf:about="http://lizardleaves.com/delivery-information/deliver">        <title>Delivery Information</title>        <link>http://lizardleaves.com/delivery-information/deliver</link>        <description></description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>vern</dc:creator>        <dc:rights></dc:rights>                <dc:date>2007-10-08T11:23:13Z</dc:date>        <dc:type>Page</dc:type>    </item>
+    <item rdf:about="http://lizardleaves.com/images/mizuna">        <title>Mizuna</title>        <link>http://lizardleaves.com/images/mizuna</link>        <description>Mizuna </description>        <dc:publisher>No publisher</dc:publisher>        <dc:creator>vern</dc:creator>        <dc:rights></dc:rights>                <dc:date>2007-02-27T10:22:57Z</dc:date>        <dc:type>Image</dc:type>    </item>
+
+
+
+</rdf:RDF>

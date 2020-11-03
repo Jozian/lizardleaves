@@ -1,0 +1,225 @@
+
+/* - greenearththeme.css - */
+@media screen {
+/* http://lizardleaves.com/portal_css/greenearththeme.css?original=1 */
+/* */
+/* \*/
+* html .documentContent {height: 1%;}
+/* */
+/* */
+/* */
+#portal-column-one dt.portletHeader {
+display: none;
+}
+/* */
+dd.portletItemSingle,
+dd.portletItem,
+dd.portletItemLast {
+border: 0;
+}
+/* */
+#portal-column-one .navTreeItem a,
+#portal-column-one .navTreeItem a:hover,
+#portal-column-one .navTreeItem div {
+background-image: none !important;
+border-left: 0;
+border-right: 0;
+padding-top: 0.2em;
+padding-bottom: 0.2em;
+}
+/* */
+#portal-column-one #portlet-navigation-tree .visualIconPadding {
+padding: 0;
+margin: 0;
+}
+/* */
+#portal-column-one .navTreeItem {
+border-top: 1px solid #FFFFBD;
+}
+/* */
+#portal-column-one .navTreeCurrentItem {
+border: 0 !important;
+}
+/* */
+#portal-column-one #portlet-navigation-tree li a,
+#portal-column-one #portlet-navigation-tree li a:hover {
+border: 0;
+padding: 0;
+}
+/* */
+#portal-searchbox {
+position: static;
+top: 0;
+right: 0;
+background-color: transparent;
+margin: 0;
+padding: 1em 1em;
+text-align: left;
+text-transform: none;
+width: auto;
+white-space: nowrap;
+z-index: 2;
+}
+/* */
+body {
+margin: 2em 3em 3em 3em;
+background-color: #FFFFBD;
+}
+ul {
+line-height: 1.5em;
+list-style-type: disc;
+margin: 0.5em 0 0 1.5em;
+padding: 0;
+list-style-image: none;
+}
+#visual-portal-wrapper {
+width: 750px;
+background-color: White;
+border: 0;
+}
+/* */
+#portal-siteactions {
+position: absolute;
+top: 0px;
+}
+#portal-siteactions li a,
+#portal-siteactions li a:hover {
+border: 0;
+color: #fff;
+}
+/* */
+/* */
+#portal-top {
+background: url(../../banner.jpg) no-repeat;
+background-position: top right;
+height: auto;
+border: 0;
+border-top: 1px solid #FFFFBD;
+}
+/* */
+#portal-logo {
+margin: 10px 0em 0em 1.5em;
+height: 115px;
+}
+/* */
+/* */
+#portal-personaltools {
+margin: 0;
+padding: 0;
+border: 0;
+padding-right: 2em;
+}
+/* */
+#portal-breadcrumbs {
+border-bottom-color: #FFFFAA;
+border-bottom-style: solid;
+border-bottom-width: 1px;
+padding-left: 2em;
+padding-right: 2em;
+padding-top: .5em;
+padding-bottom: .5em;
+text-transform: lowercase;
+text-align: right;
+background-color: #FFFFAA;
+margin: 0;
+}
+/* */
+#portal-columns {
+width: 100% !important;
+border: 0px;
+padding: 0px;
+margin: 0px;
+border-collapse: collapse;
+border-top: 1px solid #FFFFAA;
+}
+/* */
+#portal-column-one {
+vertical-align: top;
+width: 16em;
+background-color: #FFFFAA;
+margin: 0;
+}
+/* */
+#portal-column-one .visualPadding {
+padding: 2em 0em 1em 0em;
+}
+/* */
+#portal-column-content {
+vertical-align: top;
+margin: 0;
+padding: 0;
+}
+/* */
+#portal-column-content .visualPadding {
+padding: 0em 2em 1em 2em;
+}
+/* */
+#portal-column-two {
+vertical-align: top;
+width: 16em;
+margin: 0;
+}
+/* */
+#portal-column-two .visualPadding {
+padding: 2em 1em 1em 1em;
+border-left: 1px solid #555555;
+margin-top: 2em;
+}
+/* */
+#portal-footer {
+border-bottom: 0px;
+float: none;
+margin: 0em 0em 0em 0em;
+padding: 0.5em 0em 1em 0em;
+text-align: center;
+background-color: #FFFFBD;
+border-top: 0px;
+}
+#portal-footer a {
+text-decoration: none;
+color: black;
+}
+#portal-footer a:hover {
+text-decoration: underline;
+}
+/* */
+#portal-colophon {
+float: none;
+margin: 0em 0em 0em 0em;
+padding: 0.5em 0em 1em 0em;
+text-align: center;
+background-color: #FFFFBD;
+color: #333;
+font-size: 9px;
+}
+#portal-colophon a {
+color: #333;
+text-decoration: none;
+}
+#portal-colophon a:hover {
+color: #333;
+text-decoration: underline;
+}
+/* */
+
+}
+
+
+/* - easynewsletter.css - */
+@media all {
+/* http://lizardleaves.com/portal_css/easynewsletter.css?original=1 */
+/* */
+/* */
+input.easynewsletter_text {
+width:99px;
+}
+input.easynewsletter_button {
+padding: 1px 6px;
+background: none;
+font-weight:bold;
+background-color:#eee;
+}
+/* */
+
+}
+

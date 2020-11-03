@@ -1,0 +1,72 @@
+
+/* - slideshowfolder.css - */
+@media screen {
+/*
+   (do not remove this)
+   (not this either)
+*/
+div.slideshow {
+    margin: 18px auto;
+}
+
+div.slideshow p {
+  padding-top: 9px;
+  padding-bottom: 20px;  
+  position: relative;
+}
+
+div.slideshow ul {
+    background: White;
+    left: 0px;
+    position: relative;
+    overflow: hidden;
+    padding: 5px 0;
+    z-index: 10001;
+    width: 100%;
+}
+	
+div.slideshow ul a {
+    background-position: 50% 50%;
+    cursor: pointer;
+    display: block;
+    height: 30px;
+    margin-right: 5px;
+    opacity: 0.5;
+    width: 30px;
+}
+
+div.slideshow ul a.active,
+div.slideshow ul a:hover {
+    opacity: 1;
+}
+div.slideshow ul li {
+    float: left;
+    list-style: none;
+}
+
+div.slideshow a.prev {
+ background-image: url('left-arrow.png');
+ border: none;
+}
+
+div.slideshow a.next {
+ background-image: url('right-arrow.png');
+ border: none;
+}
+
+/*  */
+
+}
+
+
+/* - ploneCustom.css - */
+@media all {
+/* http://lizardleaves.com/portal_css/ploneCustom.css?original=1 */
+/* */
+/* */
+/* */
+/* */
+/* */
+
+}
+
